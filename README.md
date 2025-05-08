@@ -1,7 +1,7 @@
 # Chicago Data Analysis
 ## Overview
 
-This repository contains a Jupyter Notebook (`YourNotebookName.ipynb`) that documents a data analysis project focused on exploring datasets related to the city of Chicago. The analysis utilizes Python with the Pandas library for data manipulation and SQL (specifically SQLite) for querying and extracting insights from the data.
+This repository contains a Jupyter Notebook (`Chicago_Data_Analysis.ipynb`) that documents a data analysis project focused on exploring datasets related to the city of Chicago. The analysis utilizes Python with the Pandas library for data manipulation and SQL (specifically SQLite) for querying and extracting insights from the data.
 
 The project investigates various aspects of Chicago data, including:
 
